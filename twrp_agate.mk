@@ -31,5 +31,5 @@ $(call inherit-product, device/xiaomi/agate/device.mk)
 PRODUCT_DEVICE := agate
 PRODUCT_NAME := twrp_agate
 PRODUCT_BRAND := Xiaomi	
-PRODUCT_MODEL := M2104K11TC
+PRODUCT_MODEL := 21081111RG
 PRODUCT_MANUFACTURER := Xiaomi 
