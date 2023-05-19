@@ -156,7 +156,7 @@ IBootControl* HIDL_FETCH_IBootControl(const char* /* hal */) {
 }
 
 }  // namespace implementation
-}  // namespace V1_1
+}  // namespace V1_2
 }  // namespace boot
 }  // namespace hardware
 }  // namespace android
