@@ -145,10 +145,6 @@ BOARD_CHARGER_DISABLE_INIT_BLANK := true
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /config/usb_gadget/g1/functions/mass_storage.usb0/lun.%d/file
 TW_NO_FASTBOOT_BOOT := true
 
-# Haptic
-TW_SUPPORT_INPUT_AIDL_HAPTICS :=true
-TW_SUPPORT_INPUT_AIDL_HAPTICS_FQNAME := "IVibrator/vibratorfeature"
-
 # Debug
 TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
