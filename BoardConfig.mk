@@ -160,6 +160,7 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_INCLUDE_NTFS_3G := true
 TW_LOAD_VENDOR_MODULES := "fts_touch_spi.ko xiaomi_touch.ko"
 TW_MAX_BRIGHTNESS := 2047
+TW_NO_HAPTICS := true
 TW_SCREEN_BLANK_ON_BOOT:= true
 TW_THEME := portrait_hdpi
 TWRP_INCLUDE_LOGCAT := true
